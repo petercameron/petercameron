@@ -1,16 +1,15 @@
 ---
 version: 3.8.2
 name: Jekyll • Simple, blog-aware, static sites
-description: Transform your plain text into static websites and blogs
+description: Peter Cameron: blog, thoughts & tinkerings
 theme: jekyll-theme-architect
-url: https://jekyllrb.com
-repository: https://github.com/jekyll/jekyll
-timezone: America/Los_Angeles
+url: https://petercameron.github.io
+repository: https://github.com/petercameron/petercameron
 twitter:
   username: jekyllrb
-logo: "/img/logo-2x.png"
-google_analytics_id: UA-50755011-1
-google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
+logo: "/img/logo.jpg"
+google_analytics_id:
+google_site_verification:
 collections:
   docs:
     permalink: "/:collection/:path/"
