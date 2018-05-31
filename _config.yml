@@ -1,7 +1,7 @@
 ---
 version: 3.8.2
 name: Jekyll • Simple, blog-aware, static sites
-description: Peter Cameron: blog, thoughts & tinkerings
+description: "Peter Cameron: blog, thoughts & tinkerings"
 theme: jekyll-theme-architect
 url: https://petercameron.github.io
 repository: https://github.com/petercameron/petercameron
